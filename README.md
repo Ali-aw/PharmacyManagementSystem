@@ -6,4 +6,4 @@ The pharmacy management system will be used to minimize the time and resource by
 >>Connection to SQL database <br />
 >>Searching for a specific drug <br />
 >>Print invoice <br />
->>Print a list of available drugs in a combobox <br />
+>>Print a list of available drugs in a scrollpane <br />
